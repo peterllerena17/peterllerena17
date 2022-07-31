@@ -2,7 +2,7 @@ Hi there 👋
 
 
 
-- 🔭 I’m currently working on ... Securing a Summer 22 internship/Completing my CS Degree
+- 🔭 I’m currently working on ... Completing my CS degree - Graduation Dec 2022
 - 🌱 I’m currently learning ... JavaScript/React
 - 👯 I’m looking to collaborate on ... Anything!
 - 🤔 I’m looking for help with ...  Any best practice for coding interviews!
