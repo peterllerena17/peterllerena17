@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Computer Science student graduating December 2022 and searching for work!
 
 * 🌍  I'm based in Miami
-* 🖥️  See my portfolio at [WORK IN PROGRESS](http://test)
+* 🖥️  See my portfolio at [WORK IN PROGRESS](www.peterllerena.com)
 * ✉️  You can contact me at [peterllerena9@gmail.com](mailto:peterllerena9@gmail.com)
 * 🚀  I'm currently working on [Java Projects](http://test)
 * 🧠  I'm learning React.js
